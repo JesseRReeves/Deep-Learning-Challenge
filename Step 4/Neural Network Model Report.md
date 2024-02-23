@@ -1,9 +1,8 @@
+                        **Neural Network Model Report**
+
+
+
 --Overview--
-    
-   
-   
-   
-   
     The purpose of this analysis is to create a tool for a nonprofit foundation called Alphabet
 Soup that predicts which applicants will be successful if funded. We are given a CSV file containing more than 34,000 organizations that have received funding from Alphabet Soup over the years.  Within this dataset there are a number of columns that capture metadata about each organization.  Using this information we are making a machine learning model using neural networks that can predict accurately whether or not an organization will be successful if funded.
 
@@ -31,7 +30,7 @@ Variables Removed from Model:
 -neurons: 34.  This was the optimal amount of nodes to use according to my kerastuner test.
 -Layers: 6  This was the optimal amount of layers to use according to my kerastune test.
 -Activation Function: Relu.  The keras tuner model said this was the optimal Function to use.
-![alt text](Step 4/Screenshot (121).png)
+![alt text]("Step 4/Screenshot (121).png")
 
 ** Model Two:
 -Neurons: 20.  I decided to use less nodes to test how this would effect the accuracy score.
