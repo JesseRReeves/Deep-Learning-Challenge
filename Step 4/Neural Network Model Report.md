@@ -1,4 +1,4 @@
-                                    --Overview--
+--Overview--
     
    
    
@@ -24,7 +24,7 @@ Feature Variables:
 Variables Removed from Model:
 -EIN and NAME—Identification columns
 
-                        --Compiling, Training, and Evaluating the Model--
+--Compiling, Training, and Evaluating the Model--
 
 
 ** Model One:  I ran a kerastuner to find out the best model to run.
@@ -48,9 +48,7 @@ Activation Function: Relu.  I decided to use Relu since my keras tuner test had 
 
 NOTE: I started by using Google Colab.  However, halfway through my work it gave me messages saying I used all available RAM and had to upgrade to Google Colab pro.  So I switched to Jupyter Notebook.
 
-                                        --Summary--
-
-
+--Summary--
 
 
     I was able to achieve the target model performance by my third model.  The first training test
