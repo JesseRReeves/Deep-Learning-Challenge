@@ -30,7 +30,7 @@ Variables Removed from Model:
 -neurons: 34.  This was the optimal amount of nodes to use according to my kerastuner test.
 -Layers: 6  This was the optimal amount of layers to use according to my kerastune test.
 -Activation Function: Relu.  The keras tuner model said this was the optimal Function to use.
-![alt text](Step_4/Screenshot(121).png)
+![alt text]('https://raw.githubusercontent.com/JesseRReeves/Deep-Learning-Challenge/d55e9088558b3f8c797545012da6a7807c8382ff/Step%204/Screenshot%20(121).png')
 
 ** Model Two:
 -Neurons: 20.  I decided to use less nodes to test how this would effect the accuracy score.
