@@ -27,18 +27,18 @@ Variables Removed from Model:
 -neurons: 34.  This was the optimal amount of nodes to use according to my kerastuner test.
 -Layers: 6  This was the optimal amount of layers to use according to my kerastune test.
 -Activation Function: Relu.  The keras tuner model said this was the optimal Function to use.
-![alt text](Screenshot(121).png)
+![alt text](Step 4/Screenshot (121).png)
 
 ** Model Two:
 -Neurons: 20.  I decided to use less nodes to test how this would effect the accuracy score.
 -Layers: 3.  I decided to test my model using less hidden layers to see how this would effect the accuracy score.
 Activation Function: Relu. The keras tuner model said this was the optimal Function to use.
-![alt text](Screenshot(125).png)  ![alt text](Screenshot(123).png)
+![alt text](Step 4/Screenshot (125).png)  ![alt text](Step 4/Screenshot (123).png)
 ** Model Three:
 Neurons: 13.  Since more nodes did not mean much difference in accuracy, I decided to lower the amount even more.
 Layers: 2.  Since more layers did not mean much difference in accuracy, I decided to have only two layers.
 Activation Function: Relu.  I decided to use Relu since my keras tuner test had decided this was the optimal Function to use.
-![alt text](Screenshot(124).png)  ![alt text](Screenshot(125).png)
+![alt text](Step 4/Screenshot (124).png)  ![alt text](Step 4/Screenshot (125).png)
 
 
 
